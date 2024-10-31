@@ -1,0 +1,24 @@
+.heading{
+    background-color: pink;
+}
+
+.profile{
+    height: 200px;
+    border-radius: 50%;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+  }
+
+  .carousel-inner{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .footer{
+    background-color: pink;
+  }
